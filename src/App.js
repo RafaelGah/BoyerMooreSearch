@@ -116,7 +116,7 @@ function App() {
           <div>
               <h2>output</h2>
 
-              <p>{area}<mark>{margieren}</mark></p>
+              <p>{area}</p>
           </div>
           <div className={"hd"}>
               <div className={"h"}>
